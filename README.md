@@ -23,4 +23,3 @@ Google Sheets: FILTER, SORT, UNIQUE, COUNTUNIQUE, VLOOKUP, XLOOKUP, AVERAGEIFS.
 - `workbook/` — my full spreadsheet, including formulas and charts (Excel export).
 - `charts/` — images of the charts.
 
-*This is a course dataset. Some Google Sheets formulas, such as COUNTUNIQUE, may not recalculate correctly in Excel; the original analysis was done in Google Sheets.*
